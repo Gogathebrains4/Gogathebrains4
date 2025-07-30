@@ -3,7 +3,6 @@
 -  I’m currently learning google cybersecurity on coursea
 - 💞️ I’m looking to collaborate on network and cloud security 
 - 📫 How to reach me ogbechewisdom1@gmail.com
-- 😄 Pronouns: He
 - ⚡ Fun fact: I studied civil engineering
 
 <!---
