@@ -1,4 +1,4 @@
--  Hi, I’m @Gogathebrains4
+-  Hi, I’m Wisdom Ogbeche
 -  I’m interested in data analysis and business intelligence
 -  I’m currently developing my skills in Excel, Power BI, SQL, and data visualization techniques
 -  I’m looking to collaborate on data analysis projects, reporting dashboards, and insight-driven solutions
