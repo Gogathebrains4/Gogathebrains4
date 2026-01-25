@@ -1,8 +1,9 @@
 -  Hi, I’m Wisdom Ogbeche
--  I’m interested in data analysis and business intelligence
--  I’m currently developing my skills in Excel, Power BI, SQL, and data visualization techniques
+-  I’m interested in data analysis, business intelligence, and sustainability-driven solutions
+-  I’m proficient in Excel, Power BI, SQL, and data visualization techniques
+-  I also have a strong interest in sustainability design and using data to support environmentally responsible decision-making
 -  I’m looking to collaborate on data analysis projects, reporting dashboards, and insight-driven solutions
--  How to reach me ogbechewisdom1@gmail.com
+-  How to reach me: ogbechewisdom1@gmail.com
 -  Fun fact: I studied civil engineering
 
 <!---
