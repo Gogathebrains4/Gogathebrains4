@@ -1,7 +1,7 @@
 -  Hi, I’m Wisdom Ogbeche
--  I’m interested in data analysis, business intelligence, and sustainability-driven solutions
+-  I’m a data engineer. I provide insights into data to support decision-making
 -  I’m proficient in Excel, Power BI, SQL, and data visualization techniques
--  I also have a strong interest in sustainability design and using data to support environmentally responsible decision-making
+-  I also have a strong interest in sustainable design and using data to support environmental decision-making, optimise resource utilisation, and develop solutions that balance business performance with long-term environmental sustainability.
 -  I’m looking to collaborate on data analysis projects, reporting dashboards, and insight-driven solutions
 -  How to reach me: ogbechewisdom1@gmail.com
 -  Fun fact: I studied civil engineering
