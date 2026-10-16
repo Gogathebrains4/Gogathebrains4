@@ -4,7 +4,7 @@
 -  I also have a strong interest in sustainable design and using data to support environmental decision-making, optimise resource utilisation, and develop solutions that balance business performance with long-term environmental sustainability.
 -  I’m looking to collaborate on data analysis projects, reporting dashboards, and insight-driven solutions
 -  How to reach me: ogbechewisdom1@gmail.com
--  Fun fact: I studied civil engineering
+-  Fun fact: I have a First class degree in Civil Engineering
 
 <!---
 Gogathebrains4/Gogathebrains4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
